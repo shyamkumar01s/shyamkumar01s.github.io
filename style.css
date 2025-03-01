@@ -1,4 +1,22 @@
 body{
-    background-color: #000000;
-    color: rgb(255, 255, 255);
+}
+
+.tbRight{
+    background-color: rgb(26, 190, 26);
+}
+
+.tbLeft{
+    background-color: darkgreen;
+}
+
+.subHeading{
+    background-color: aqua;
+    
+}
+#changeRed{
+    padding: 10px;
+
+    border-radius: 200px;
+    text-shadow: 0px 2px 2px;
+    
 }
